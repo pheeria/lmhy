@@ -1,0 +1,23 @@
+{
+	"lang" : "FR", 
+	"help" : "/start - Démarre le bot \n/search - Recherches pour un match \n/help - Affiche cette aide \n/whoisyourdaddy - A propos de nous \n/remove - Supprime votre utilisateur", 
+	
+	"notNewbie" : "Donc vous n'est pas debutant.",
+
+	"whoAreYou" : "Qui-est vous?",
+	"helper" : "Auxiliaire",
+	"helpee" : "Helpee",
+	
+	"askGender" : "Quel est votre sexe?",
+	"female" : "Femme",
+	"male" : "Homme",
+ 
+ 	"askNumber" : "Voulez-vous me donner votre telephone?",
+	"shareNumber" : "Partegez-vous votre telephone.",
+	"askLocation" : "Voulez-vous me donner votre position?",
+	"shareLocation" : "Partegez-vous votre position.",
+	
+	"daddy" : "S. Moreno, O. Askar, E. Yılmaz and E. Alonso",
+	
+	"couldntRecognize" : "Je ne peu reconnaitre pas votre logiciel. S'il vous plait, ecrivez lui une otre fois."
+}

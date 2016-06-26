@@ -1,0 +1,23 @@
+{
+	"lang" : "TR",
+	"help" : "/start - Botu başlat \n/search - Eşleşme için ara \n/help - Yardımı göster \n/whoisyourdaddy - Hakkımızda \n/remove - Hesabını sil", 
+
+	"notNewbie" : "Siz yeni üye değilsiniz!",
+
+	"whoAreYou" : "Kimsiniz?",
+	"helper" : "Yardımcı",
+	"helpee" : "Yardım isteyen",
+
+	"askGender" : "Cinsiyetiniz nedir?",	
+	"female" : "Kadın",
+	"male" : "Erkek",
+
+	"askNumber" : "Telefon numaranızı verir misiniz?",	
+	"shareNumber" : "Telefon numaranı paylaş.",
+	"askLocation" : "Bulunduğunuz yeri söyler misiniz?",
+	"shareLocation" : "Yerini paylaş.",
+	
+	"daddy" : "S. Moreno, O. Askar, E. Yılmaz and E. Alonso",
+	
+	"couldntRecognize" : "Kodunuzu tanıyamadım. Lütfen tekrar deneyin."
+}

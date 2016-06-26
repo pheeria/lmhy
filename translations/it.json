@@ -1,0 +1,23 @@
+{
+	"lang" : "IT",
+	"help" : "/start - Avvia il bot \n/search - Ricerca una corrispondenza \n/help - mostra questo aiuto \n/whoisyourdaddy - Chi siamo \n/remove - Rimuove l'utente", 
+
+	"notNewbie" : "Quindi non sei un nuovo membro!",
+
+	"whoAreYou" : "Chi sei?",
+	"helper" : "aiutante",
+	"helpee" : "Helpee",
+
+	"askGender" : "qual è il tuo genere?",	
+	"female" : "Donna",
+	"male" : "Uomo",
+
+	"askNumber" : "Mi daresti il tuo numero, per favore?",
+	"shareNumber" : "Condividi il tuo numero",
+	"askLocation" : "Mi daresti la tua posizione, per favore?",
+	"shareLocation" : "Condividi la tua posizione",
+
+	"daddy" : "S. Moreno, O. Askar, E. Yılmaz and E. Alonso",
+	
+	"couldntRecognize" : "Non riconosco il tuo codice. Per favore prova di nuovo"
+}

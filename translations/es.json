@@ -1,0 +1,23 @@
+{
+	"lang" : "ES",
+	"help" : "/start - Inicia el bot \n/search - Busca un partido \n/help - Muestra esta ayuda \n/whoisyourdaddy - Sobre nosotros \n/remove - Elimina el usuario", 
+
+	  "notNewbie" : "¡Asi que usted no es un novato!",	
+
+	"whoAreYou" : "¿Quién es usted?",
+	  "helper" : "Voluntario",
+	  "helpee" : "Helpee",
+
+	"askGender" : "¿Cuál es su género?",	
+	"female" : "Mujer",
+	"male" : "Hombre",
+
+	"askNumber" : "¿Me daría su número?",	
+	"shareNumber" : "Comparta su número",
+	"askLocation" : "¿Me daría su localización?",
+	"shareLocation" : "Comparta su localización",
+
+	"daddy" : "S. Moreno, O. Askar, E. Yılmaz and E. Alonso",
+
+	"couldntRecognize" : "No he podido reconocer su código. Por favor, vuelva a intentarlo."
+}

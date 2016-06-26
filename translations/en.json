@@ -1,0 +1,24 @@
+{
+	"lang" : "EN",
+	"help" : "/start - Starts the bot \n/search - Searches for a match \n/help - Shows this help \n/whoisyourdaddy - About us \n/remove - Removes your user", 
+
+	"notNewbie" : "So you are not a newbie!",
+	
+	"whoAreYou" : "Who are you?",
+	"helper" : "Helper",
+	"helpee" : "Helpee",
+	
+	"askGender" : "What is your gender?",
+	"female" : "Female",
+	"male" : "Male",
+	
+	
+	"askNumber" : "Would you give me your number?",
+	"shareNumber" : "Share your number",
+	"askLocation" : "Would you give me your location?",
+	"shareLocation" : "Share your location",
+	
+	"daddy" : "S. Moreno, O. Askar, E. Yılmaz and E. Alonso",
+	
+	"couldntRecognize" : "I could not recognize your code. Please try once again."
+}
